@@ -1,0 +1,7 @@
+{
+  "name": "ScafForge AI",
+  "description": "AI-powered research assistant for designing biomedical tissue scaffolds before bioprinting with 3D lattice generation, digital twin simulations, and IoT hardware integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
